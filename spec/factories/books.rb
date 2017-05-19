@@ -14,7 +14,7 @@ FactoryGirl.define do
     title "Ruby on Rails Tutorial"
     subtitle "Learn Web developement with rails"
     isbn_10 "0134077709"
-    isbn_13 "978013477709"
+    isbn_13 "9780134777091"
     description "Rails tutorial is great"
     released_on "2013-05-09"
     publisher_id nil
